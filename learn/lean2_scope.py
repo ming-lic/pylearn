@@ -1,6 +1,15 @@
 #coding=utf-8 
 #! /usr/bin/env python 
 
+
+"""
+from modname import funcname 
+from modname import fa, fb, fc 
+or   from modname import * 
+"""
+
+
+
 import mingutil
 
 
